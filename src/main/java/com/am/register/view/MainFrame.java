@@ -58,8 +58,8 @@ public class MainFrame extends JFrame {
         loadItemGrid();
 
 
-        // Initialize and start cleanup scheduler (7-day retention)
-        cleanupScheduler = new SuspensionCleanupScheduler(controller, 7);
+        // Initialize and start cleanup scheduler
+        cleanupScheduler = new SuspensionCleanupScheduler(controller, 0);
         cleanupScheduler.start();
 
         setupShutdownHook();
