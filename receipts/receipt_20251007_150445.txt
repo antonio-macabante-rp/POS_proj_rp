@@ -1,0 +1,23 @@
+               MOCK REGISTER SYSTEM
+           Thank you for your purchase!
+--------------------------------------------------
+Receipt #: R20251007150445
+Date: 2025-10-07 15:04:45
+--------------------------------------------------
+QTY  ITEM                                    TOTAL
+--------------------------------------------------
+ 5x  $1 MAD MONEY                            $5.00
+SUBTOTAL:                                    $5.00
+TAX (7%):                                    $0.35
+--------------------------------------------------
+TOTAL:                                       $5.00
+
+Payment Method: Cash
+Tendered:                                    $5.35
+Change:                                      $0.00
+--------------------------------------------------
+
+                  Items Sold: 1
+
+               Visit us again soon!
+               www.mockregister.com
